@@ -2,7 +2,7 @@
 
 ![Bienvenida Épica](https://github.com/WillZek/WillZek/blob/main/Crow.svg)
 
-> **`🪩 Versión Actual: 2.5.0`**  
+> **`🪩 Versión Actual: 1.0.0`**  
 
 <a
 href="https://github.com/memochiko/MikuBot-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/memochiko/MikuBot-MD?color=purple&style=flat-square"></a>
@@ -12,24 +12,15 @@ href="https://github.com/memochiko/MikuBot-MD/stargazers/"><img title="Stars" sr
 
 ___
 
-# **`📩 Donaciones`**
+## 💛 **`M I K U - B O T`**    
 
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/starcoreNinoPina)
-[![Donen Pijes](https://img.shields.io/badge/Donar-E4405F?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/crowclub#pageMessageModal)
-
-
-___
-
-
-## 💛 **`C R O W - B O T`**    
-
-![Menú Principal](https://files.catbox.moe/v8q8y2.jpg)
+![Menú Principal](https://files.catbox.moe/ss3nad.jpg)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>   
 
-<a href="https://github.com/WillZek/CrowBot-ST"><img src="https://cardivo.vercel.app/api?name=CrowBot&repo=CrowBot-ST&description=Hola+Soy+CrowBot+Disfruta+del+Bot+De+WhatsApp.&image=https://telegra.ph/file/b346b44893d4613a72f98.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=crowbot_wa&whatsapp=50557865603&tiktok=crow_legendario_bs&pattern=leaf&colorPattern=%23eaeaea" /><a>
+<a href="https://github.com/memochiko/MikuBot-MD"><img src="https://cardivo.vercel.app/api?name=MikuBot-MD&repo=MikuBot-MD&description=Hola+Soy+MikuBot+Disfruta+del+Bot+De+WhatsApp.&image=https://files.catbox.moe/ss3nad.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=_.memochiko&whatsapp=56967964633&tiktok=._.memochiko&pattern=leaf&colorPattern=%23eaeaea" /><a>
 
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=85&pause=2000&color=FFD200FF&chrome=true&width=1000&height=200&lines=💛+ WillZek+Lanzó;🍷La+Version+2.5.0;Disfruta+Del+Bot+🎩" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=85&pause=2000&color=FFD200FF&chrome=true&width=1000&height=200&lines=💜 + Memo Chiko+Lanzó;🍷La+Version+1.0.0;Disfruta+Del+Bot+🎩" alt="Typing SVG" /></a>
 
 
 <!-- RAINBOW LINE BOT -->
@@ -37,16 +28,14 @@ ___
 
 ## 🍷 REDES OFICIALES 
 
-[![Web](https://img.shields.io/badge/Web_Oficial-36DFFF?style=for-the-badge&logo=vercel&logoColor=white)](https://crow-bot-dashboard.vercel.app/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](maito:ninopina10@gmail.com)
-[![XDjajaj](https://img.shields.io/badge/Github-333522?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WillZek)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/crowbot_wa)
-[![Patreon](https://img.shields.io/badge/Patreon-6C6C6C?style=for-the-badge&logo=patreon&logoColor=white)](https://nohay.com)
+[![Web](https://img.shields.io/badge/Web_Oficial-36DFFF?style=for-the-badge&logo=vercel&logoColor=white)](https://atom.bio/memochiko)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](maito:memochiko.oficial@gmail.com)
+[![XDjajaj](https://img.shields.io/badge/Github-333522?style=for-the-badge&logo=github&logoColor=white)](https://github.com/memochiko)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_.memochiko)
 [![Facebook Pijes](https://img.shields.io/badge/Facebook-3D9FFF?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61570569047747)
-[![Accounts](https://img.shields.io/badge/CUENTAS-000000%7D?style=for-the-badger&logo=biolink&logoColor=white)](https://www.atom.bio/crowbot-ofc)
 
 
-<a href="#"><img title="CrowBot" src="https://img.shields.io/badge/CROW 💛 | WILLZEK 💛 | SUN FLARE - TEAM 💛-blue?colorA=%#4651a6FF&colorB=%23ff0000&style=for-the-badge"></a>
+<a href="#"><img title="MikuBot" src="https://img.shields.io/badge/MIKU 💜 | MEMO CHIKO 💜 | NIGHTMOON - CLUB 💜-blue?colorA=%#4651a6FF&colorB=%23ff0000&style=for-the-badge"></a>
 </p>
 
 <!-- RAINBOW LINE BOT -->
@@ -69,8 +58,6 @@ ___
 | **WhatsApp** | 𝐂𝐚𝐧𝐚𝐥 𝐎𝐟𝐢𝐜𝐢𝐚𝐥 | [¡Click aquí!](https://whatsapp.com/channel/0029Vb1AFK6HbFV9kaB3b13W) |
 | **WhatsApp** | 𝐆𝐫𝐮𝐩𝐨 𝐎𝐟𝐢𝐜𝐢𝐚𝐥 | [¡Click aquí!](https://chat.whatsapp.com/B7POPrlJiZf7UWHJKvzVkx) |
 | **WhatsApp** | 𝐂𝐨𝐦𝐮𝐧𝐢𝐝𝐚𝐝 𝐎𝐟𝐢𝐜𝐢𝐚𝐥 | [¡Click aquí!](https://chat.whatsapp.com/B85dNp4WfzsDeDz8OFgvhx) |
-| **Dashboard** | 𝐒𝐢𝐭𝐢𝐨𝐖𝐞𝐛 𝐎𝐟𝐢𝐜𝐢𝐚𝐥 | [¡Click Aquí!](https://crowbot-web.vercel.app/) |
-| **Terminos** | 𝐓𝐞𝐫𝐦𝐢𝐧𝐨𝐬 𝐃𝐞𝐥𝐚 𝐖𝐞𝐛 | [¡Click Aquí!](https://github.com/WillZek/WillZek/blob/main/TyCW.md) |
 
 </details>
 
@@ -78,7 +65,7 @@ ___
 
 ### **`🔱 CARACTERÍSTICAS`**
 <details>
- <summary><b> <img src="https://i.pinimg.com/originals/73/69/6e/73696e022df7cd5cb3d999c6875361dd.gif" alt="Características" width="42" height="42"> Funciones de CrowBot (toca)</b></summary>
+ <summary><b> <img src="https://i.pinimg.com/originals/73/69/6e/73696e022df7cd5cb3d999c6875361dd.gif" alt="Características" width="42" height="42"> Funciones de MikuBot (toca)</b></summary>
 
 > Bot en desarrollo si presenta alguna falla reportar al creador para darle una solución óptima.
 
@@ -91,7 +78,7 @@ ___
 - [x] Chatbot (autoresponder)
 - [x] Crear sticker de image/video/gif/url
 - [x] SubBot (Jadibot)
-- [x]    Buscador Google
+- [x] Buscador Google
 - [x] Juego RPG
 - [ ] Personalizar imagen del menú
 - [x] Descarga de música y video De YT
@@ -103,22 +90,22 @@ ___
 
 ### **`👑 INFORMACION CONTACTOS`**
 
-#### **`Owner: WillZek 🤴`**
-> **`Developed By: Moon Force`**
+#### **`Owner: Memo Chiko 🤴`**
+> **`Developed By: Nightmoon Club`**
 
 #### **`CONTACTOS 💻`**
 <p>
 
 <a
-href="https://wa.me/50557865603?text="><img src="https://files.catbox.moe/44q2o7.jpg" height="125px"></a>
+href="https://wa.me/56967964633?text="><img src="https://files.catbox.moe/44q2o7.jpg" height="125px"></a>
 
 <details>
 <summary><b> 📞 Toca Aqui</b></summary>
 
-- **Propietario:** [`Aquí`](https:/Wa.me/50557865603)
-- **Github:** [`Aqui`](https://github.com/WillZek)
-- **Instagram:** [`Aqui`](https://www.instagram.com/pina_dzn)
-- **Correo:** [`Aqui`](ninopina10@gmail.com)
+- **Propietario:** [`Aquí`](https:/Wa.me/56967964633)
+- **Github:** [`Aqui`](https://github.com/memochiko)
+- **Instagram:** [`Aqui`](https://www.instagram.com/_.memochiko)
+- **Correo:** [`Aqui`](memochiko.oficial@gmail.com)
 
 </details>
 
@@ -128,10 +115,10 @@ href="https://wa.me/50557865603?text="><img src="https://files.catbox.moe/44q2o7
 ### **`🖤 TERMUX INFORMACIÓN`**
 
 > [!IMPORTANT]
-> **CrowBot No Recibe Mucho Mantenimiento En Termux**
+> **MikuBot No Recibe Mucho Mantenimiento En Termux**
 
 > [!TIP]
-> **Puedes Utilizar Servidores Para Instalar A CrowBot o Compra Tu [Token](https://crow-bot-dashboard.vercel.app/) En La Pagina Oficial De CrowBot!**
+> **Puedes Utilizar Servidores Para Instalar A MikuBot**
 
 
 #### **`🌠 Click en la imagen para obtener termux`**
@@ -156,7 +143,7 @@ apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
 
 ```bash
-git clone https://github.com/WillZek/CrowBot-ST && cd CrowBot-ST
+git clone https://github.com/memochiko/MikuBot-MD && cd MikuBot-MD
 ```
 
 ```bash
@@ -169,8 +156,6 @@ npm start
 > Si aparece (Y/I/N/O/D/Z) [default=N] ? use la letra "y" + "ENTER" para continuar con la instalación.
 
 > **Si después de poner el numero de WhatsApp, y sale letras en roja no se preocupe es normal**
-
-> [**`CrowBot Archivos`**](https://github.com/WillZek/CrowBot-ST/archive/refs/heads/master.zip)
 
 </details>
 
@@ -249,8 +234,8 @@ href="https://dash.hostingpy.shop/"><img src="https://files.catbox.moe/lr92z2.jp
 
 ## **`💛 𝘊𝘙𝘌𝘈𝘋𝘖𝘙`**
 <a
-href="https://github.com/WillZek"><img src="https://github.com/WillZek.png" width="130" height="130" alt="WillZek"/></a>
+href="https://github.com/memochiko"><img src="https://files.catbox.moe/ss3nad.jpg" width="130" height="130" alt="Memo Chiko"/></a>
 
 </details>
 
-> **[✎ P᥆ᥕᥱrᥱძ ᑲᥡ m᥆᥆ᥒ𝖿᥆rᥴᥱ 𝗍ᥱᥲm ❀](https://whatsapp.com/channel/0029VaxkClI1NCrW4BX5rn3g)**
+> **[✎ Powered by Nightmoon Club ❀](https://whatsapp.com/channel/)**
